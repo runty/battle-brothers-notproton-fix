@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.dylib
+*.so
+upstream-patch.sh
+window-movement-original.json
